@@ -1,6 +1,6 @@
 # toRemoveddit
 
-Extension for Chrome or Firefox.
+Extension for lazy reddit users. For Chrome or Firefox.
 
 Click on the icon to open the current reddit page in www.removeddit.com to see removed comments. If the current page has a np.reddit.com url, clicking the icon will open the www.reddit.com version of the page.
 
