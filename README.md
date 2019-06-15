@@ -2,7 +2,7 @@
 
 Extension for lazy reddit users. For Chrome or Firefox.
 
-Click on the icon to open the current reddit page in `www.removeddit.com` to see removed comments. If the current page has a `np.reddit.com url`, clicking the icon will open the `www.reddit.com` version of the page.
+Click on the icon to open the current reddit page in `www.removeddit.com` to see removed comments. If the current page has a `np.reddit.com` url, clicking the icon will open the `www.reddit.com` version of the page.
 
 #### Examples
 1. `www.reddit.com/[path]` goes to `www.removeddit.com/[path]`
