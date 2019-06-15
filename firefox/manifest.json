@@ -1,0 +1,24 @@
+{
+  "name": "toRemoveddit",
+  "version": "0.1",
+  "manifest_version": 2,
+
+  "description": "opens the removeddit version of the current reddit page",
+
+  "page_action": {
+    "default_icon": "icons/favicon-32.png",
+    "default_title": "toRemoveddit",
+    "show_matches": ["https://*.reddit.com/*"]
+  },
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "permissions": [
+    "tabs",
+    "activeTab"
+  ],
+
+  "icons": {"48": "icons/favicon-48.png"}
+}
